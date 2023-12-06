@@ -1,0 +1,6 @@
+﻿name,review
+iphone,I am 😄 today
+iphone,😊
+iphone,😥
+iphone,☹️
+nokia,💘
